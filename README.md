@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Hanan :)
 
-<!--
-**Hanan4112/Hanan4112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
 
-Here are some ideas to get you started:
+I'm a CS undergraduate at Queens College, interested in software development and tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning new technologies. Currently learning Java🪼✨
+
+- ☘️Tools I use: **Github, Vs Code, Eclipse**
+
+- 🪐Ask me about: **CS coursework, tech, or collaborating on beginner projects**
+
+- 💌How to reach me: [LinkedIn](https://www.linkedin.com)
+
