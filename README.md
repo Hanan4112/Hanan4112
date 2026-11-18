@@ -1,4 +1,4 @@
-## Hi there, I'm Hanan :)
+## Hi there, I'm Hanan!
 
 ## About Me:
 
